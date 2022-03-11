@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "sddh",
+        "Email": "sddh@gmailcom",
+        "User_Name": "Asss111",
+        "Password": "anaaa@200",
+        "Gender": "male",
+        "Date_of_Birth": "2000-10-18",
+        "Image": "images\/shsg.png",
+        "Id": 1
+    },
+    {
+        "Name": "abc",
+        "Email": "abc@gmail.com",
+        "User_Name": "soikot11",
+        "Password": "112233",
+        "Gender": "Male",
+        "Date_of_Birth": "2022-03-08",
+        "Image": "images\/images.png",
+        "Id": 2
+    },
+    {
+        "Name": "Farhad ahmed Ahmed",
+        "Email": "ahmedfarhad0003@gmail.com",
+        "User_Name": "Farhad",
+        "Password": "12345678@",
+        "Gender": "Male",
+        "Date_of_Birth": "2021-12-07",
+        "Image": "images\/images.png",
+        "Id": 3
+    },
+    {
+        "Name": "Farhad Ahmed",
+        "Email": "farhadahmedoop@gmail.com",
+        "User_Name": "Farhad@",
+        "Password": "A12345678@",
+        "Gender": "Male",
+        "Date_of_Birth": "2021-10-04",
+        "Image": "images\/IMG_20200903_165036.jpg",
+        "Id": 4
+    },
+    {
+        "Name": "Emon",
+        "Email": "20-42539-1@student.aiub.edu",
+        "User_Name": "Bob",
+        "Password": "12345678@",
+        "Gender": "Male",
+        "Date_of_Birth": "2022-02-28",
+        "Image": "images\/images.png",
+        "Id": 5
+    },
+    {
+        "Name": "",
+        "Email": "",
+        "User_Name": "",
+        "Password": "FGzSDG",
+        "Gender": null,
+        "Date_of_Birth": "",
+        "Image": "images\/images.png",
+        "Id": 6
+    }
+]
